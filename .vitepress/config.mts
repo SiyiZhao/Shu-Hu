@@ -33,6 +33,11 @@ export default defineConfig({
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024-present Siyi Zhao'
     }
+  },
 
-  }
+  markdown: {
+    math: true
+  },
+
+  base: '/blog/'
 })
