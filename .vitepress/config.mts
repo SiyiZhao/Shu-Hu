@@ -35,9 +35,9 @@ export default defineConfig({
     }
   },
 
-  markdown: {
-    math: true
-  },
+  // markdown: {
+  //   math: true
+  // },
 
   base: '/blog/'
 })
