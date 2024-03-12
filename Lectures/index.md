@@ -15,4 +15,4 @@ Selected lectures are listed below.
 - [TBD]
 
 All list: 
-[2024-03-12 Decelerating Bar](/Lectures/2024/240312DecBar.md)
+1. [2024-03-12 Decelerating Bar](/Lectures/2024/240312DecBar.md)
