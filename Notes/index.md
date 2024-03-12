@@ -1,10 +1,8 @@
 ---
 prev: 
-    text: 'About Me'
-    link: '/AboutMe'
-next:
-    text: 'Essays'
-    link: '/Essays/index'
+    text: 'Lectures'
+    link: '/Lectures/index'
+next: false 
 ---
 # Notes index
 
