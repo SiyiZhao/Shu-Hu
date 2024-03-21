@@ -2,7 +2,9 @@
 prev: 
     text: 'index'
     link: '/Lectures/index'
-next: false  # TBD
+next: 
+    text: 'test cosmic homogeneity and isotropy'
+    link: '/Lectures/2024/0319CosPri'
 ---
 
 # A decelerating bar in the Galaxy 
