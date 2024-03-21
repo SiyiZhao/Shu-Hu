@@ -54,6 +54,7 @@ dust in MW -> dust in anywhere of Universe
 
 - application: 
   ![](image-16.png)
+  depend on energy, should be calibrated in each energy band. 
 
 - time-lag of the scattering 
 
