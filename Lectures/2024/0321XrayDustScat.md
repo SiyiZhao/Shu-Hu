@@ -2,7 +2,9 @@
 prev:
     text: 'test cosmological principle'
     link: '/Lectures/2024/0319CosPri'
-next: false
+next: 
+    text: 'Polarization of pulsar wind nebulae'
+    link: '/Lectures/2024/0328pulsar'
 ---
 
 # Interstellar X-ray Dust Scattering: Current Research and Future Prospects
