@@ -2,7 +2,9 @@
 prev:
     text: 'Xray dust scattering'
     link: '/Lectures/2024/0321XrayDustScat'
-next: false
+next: 
+    text: 'Galaxy Evolutionary Mechanisms'
+    link: '/Lectures/202404/24GalEvo'
 ---
 
 # A polarized view of the Pulsar Wind Nebulae with IXPE 
